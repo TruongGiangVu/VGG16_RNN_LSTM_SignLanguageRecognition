@@ -3,7 +3,9 @@
 ## Sections
 - [Description](#description)
 - [Dataset](#dataset)
+- [Architecture](#architecture)
 - [Methods](#methods)
+- [Result](#result)
 - [Getting Started](#getting-started)
 ## Description
 <p>The project of graduation essay.</p>
@@ -17,6 +19,9 @@
 We use LSA64: A Dataset for Argentinian Sign Language <br />
 It is available on [Link](http://facundoq.github.io/datasets/lsa64/).
 
+## Architecture
+<p>Null</p>
+
 ## Methods
 **VGG16 + LSTM method:**
 > VGG16_LSTM_Train : file for training by LSTM model
@@ -27,6 +32,9 @@ It is available on [Link](http://facundoq.github.io/datasets/lsa64/).
 > VGG16_RNN_Train : file for training by RNN model
 > 
 > CM_VGG16_RNN_Test : file for testing RNN model on test set
+
+## Result
+<p>Null</p>
 
 ## Getting Started
 <p>Library: NumPy, os, Matplotlib, Tensorflow, Keras, Sklearn, opencv, Pandas, Seaborn</p>
