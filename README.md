@@ -3,7 +3,7 @@
 ## Sections
 - [Description](#Description)
 - [Dataset](#Dataset)
-- [Method](#Method)
+- [Methods](#Methods)
 ## Description
 The project of graduation essay.<br />
 ***Menber***
