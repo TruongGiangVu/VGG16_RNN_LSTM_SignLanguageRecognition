@@ -1,2 +1,18 @@
-# VGG16_RNN_LSTM_SignLanguageRecognition
-The project of graduation essay.
+# Sign Language Recognition
+
+## Sections
+- [Description](#Description)
+- [Dataset](#Dataset)
+- [Method](#Method)
+## Description
+The project of graduation essay.<br />
+***Menber***
+* Vu Truong Giang
+* Tat Tran Phong
+
+## Dataset
+We use LSA64: A Dataset for Argentinian Sign Language <br />
+It is available on [Link](http://facundoq.github.io/datasets/lsa64/).
+
+## Methods
+<p>Null</p>
