@@ -11,7 +11,7 @@
 <p>The project of graduation essay.</p>
 <p>In this work, we have applied Deep Learning for sign language recognition. VGG16, RNN and LSTM were used.</p>
 
-***Menber***
+***Member***
 * Vu Truong Giang
 * Tat Tran Phong
 
