@@ -34,8 +34,10 @@ It is available on [Link](http://facundoq.github.io/datasets/lsa64/).
 > CM_VGG16_RNN_Test : file for testing RNN model on test set
 
 ## Result
-<p>Null</p>
-
+| Index | Name | Accuracy |
+| :---: | ---- | --- |
+| 1 | VGG16 + RNN | 82.81% | 
+| 2 | VGG16 + LSTM | 95.62% |
 ## Getting Started
 <p>Library: NumPy, os, Matplotlib, Tensorflow, Keras, Sklearn, opencv, Pandas, Seaborn</p>
 
